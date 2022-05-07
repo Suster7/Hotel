@@ -1,0 +1,25 @@
+﻿<Window x:Class="RezervacijaHotela.Forme.FrmGost"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RezervacijaHotela.Forme"
+        mc:Ignorable="d"
+        Title="Dodaj/Izmeni gosta" Height="300" Width="300">
+    <Grid>
+        <Label Content="Ime:" HorizontalAlignment="Left" Margin="30,20,0,0" VerticalAlignment="Top"/>
+        <Label Content="Prezime:" HorizontalAlignment="Left" Margin="30,50,0,0" VerticalAlignment="Top"/>
+        <Label Content="JMBG:" HorizontalAlignment="Left" Margin="30,80,0,0" VerticalAlignment="Top"/>
+        <Label Content="Adresa:" HorizontalAlignment="Left" Margin="30,110,0,0" VerticalAlignment="Top"/>
+        <Label Content="Grad:" HorizontalAlignment="Left" Margin="30,140,0,0" VerticalAlignment="Top"/>
+        <Label Content="Kontakt:" HorizontalAlignment="Left" Margin="30,170,0,0" VerticalAlignment="Top"/>
+        <TextBox x:Name="txtIme" HorizontalAlignment="Left" Margin="110,20,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtPrezime" HorizontalAlignment="Left" Margin="110,50,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtJmbg" LostFocus="TextBox_LostFocus" HorizontalAlignment="Left" Margin="110,80,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" UndoLimit="13" MaxLength="13"/>
+        <TextBox x:Name="txtAdresa" HorizontalAlignment="Left" Margin="110,110,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtGrad" HorizontalAlignment="Left" Margin="110,140,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txtKontakt" HorizontalAlignment="Left" Margin="110,170,0,0" Text="" Height="23" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="btnSacuvaj" Content="Sačuvaj" HorizontalAlignment="Left" Margin="30,240,0,0" VerticalAlignment="Top" Width="75" Click="btnSacuvaj_Click"/>
+        <Button x:Name="btnOtkazi" Content="Otkaži" HorizontalAlignment="Left" Margin="180,240,0,0" VerticalAlignment="Top" Width="75" Click="btnOtkazi_Click"/>
+    </Grid>
+</Window>

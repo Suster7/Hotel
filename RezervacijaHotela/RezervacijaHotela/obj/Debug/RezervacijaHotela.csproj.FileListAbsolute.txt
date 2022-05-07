@@ -1,0 +1,62 @@
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.AssemblyReference.cache
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmApartman.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmDodatneUsluge.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmGost.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmKorisnik.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmPlacanje.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmRezervacija.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmStatusApartmana.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmTipApartmana.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\App.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela_MarkupCompile.cache
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela_MarkupCompile.lref
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.exe.config
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.exe
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.pdb
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\MainWindow.g.cs
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmApartman.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmDodatneUsluge.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmGost.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmKorisnik.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmPlacanje.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmRezervacija.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmStatusApartmana.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmTipApartmana.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\MainWindow.baml
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.g.resources
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.Properties.Resources.resources
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.GenerateResource.cache
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.CoreCompileInputs.cache
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.exe
+C:\Users\miros\source\repos\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.pdb
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.exe.config
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.exe
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\bin\Debug\RezervacijaHotela.pdb
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.AssemblyReference.cache
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmApartman.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmDodatneUsluge.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmGost.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmKorisnik.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmPlacanje.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmRezervacija.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmStatusApartmana.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmTipApartmana.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\MainWindow.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\App.g.cs
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela_MarkupCompile.cache
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela_MarkupCompile.lref
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmApartman.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmDodatneUsluge.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmGost.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmKorisnik.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmPlacanje.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmRezervacija.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmStatusApartmana.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\Forme\FrmTipApartmana.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\MainWindow.baml
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.g.resources
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.Properties.Resources.resources
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.GenerateResource.cache
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.csproj.CoreCompileInputs.cache
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.exe
+C:\Users\miros\Desktop\College\2. Godina\1. Semestar\Poslovni informacioni sistemi\Rezervacija Hotela - IT59 Miroslav Šuster\RezervacijaHotela\RezervacijaHotela\obj\Debug\RezervacijaHotela.pdb
